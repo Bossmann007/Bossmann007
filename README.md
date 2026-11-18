@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:7751FF&height=185&section=header&text=Enzo%20Bossmann&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Computer%20Science%20%40%20PUCPR%20%C2%B7%20Curitiba%2C%20Brasil&descAlignY=55&descSize=16" alt="Enzo Bossmann" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:7751FF&height=185&section=header&text=Enzo%20Bossmann&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Computer%20Science%20%40%20PUCPR%20%C2%B7%20Curitiba%2C%20Brazil&descAlignY=55&descSize=16" alt="Enzo Bossmann" />
 </p>
 
 <p align="center">
-  Construo produtos, ferramentas para agentes de IA e experiências que resolvem problemas reais.
+  I build products, tools for AI agents, and experiences that solve real problems.
 </p>
 
 <p align="center">
@@ -14,36 +14,36 @@
 
 ---
 
-## Sobre mim
+## About me
 
-- 🎓 Estudante de **Ciência da Computação na PUCPR**.
-- 🤖 Construindo ferramentas para fluxos de trabalho com **agentes de IA**.
-- 🧩 Interessado em produto, sistemas, experiência de uso e tecnologia aplicada.
-- 🤝 Aprendo em público, em projetos colaborativos e hackathons.
+- 🎓 **Computer Science** student at **PUCPR** in Curitiba, Brazil.
+- 🤖 I build tools for **AI agent workflows**: a kit for disciplined agent development and context optimization for agents.
+- 🔌 At university I work on hands-on projects, from ESP32 boards talking over MQTT to study tools for PUCPR students.
+- 🤝 I learn in public, through team projects and hackathons such as Hackathon OAB Rush.
 
-## Projetos em destaque
+## Featured projects
 
-| Projeto | O que construí | Tecnologias |
+| Project | What I built | Stack |
 | --- | --- | --- |
-| [Cursor Kit](https://github.com/Bossmann007/cursor-kit) | Kit para desenvolvimento com agentes no Cursor, com templates, hooks, memória e onboarding. | Python · MCP |
-| [Token Engine](https://github.com/Bossmann007/token-engine) | Otimização de contexto para agentes de IA, preservando informações críticas por tarefa. | Python · MCP |
-| [OpenLegalAI](https://github.com/Bossmann007/openlegalai) | Colaboração no Hackathon OAB Rush: pesquisa jurídica com IA e comparação de entendimentos entre câmaras. | TypeScript · React · NestJS |
-| [SmartPark PUCPR](https://github.com/Bossmann007/smartpark-pucpr) | Sistema ciberfísico de monitoramento de vagas. | ESP32 · MicroPython · MQTT |
-| [RA Estudo PUCPR](https://github.com/Bossmann007/ra-estudo-pucpr) | Plataforma interativa com exercícios e simulados de raciocínio algorítmico. | HTML · JavaScript |
-| [Site Lili](https://github.com/Bossmann007/SiteLili) | Presença digital para uma clínica, feita para uma necessidade de negócio real. | TypeScript |
+| [Cursor Kit](https://github.com/Bossmann007/cursor-kit) | A kit for agent-driven development in Cursor, with templates, hooks, memory and onboarding. | Python · MCP |
+| [Token Engine](https://github.com/Bossmann007/token-engine) | Context optimization for AI agents that keeps the information each task needs. | Python · MCP |
+| [OpenLegalAI](https://github.com/Bossmann007/openlegalai) | Team project from Hackathon OAB Rush: AI-assisted legal research that compares how different court chambers have ruled. | TypeScript · React · NestJS |
+| [SmartPark PUCPR](https://github.com/Bossmann007/smartpark-pucpr) | A cyber-physical system that monitors parking spaces one by one. | ESP32 · MicroPython · MQTT |
+| [RA Estudo PUCPR](https://github.com/Bossmann007/ra-estudo-pucpr) | An interactive study platform with exercises and practice tests for Algorithmic Reasoning. | HTML · JavaScript |
+| [Site Lili](https://github.com/Bossmann007/site-Dra-Ligiana-Maffini) | A website for a clinic, built for a real business need. | TypeScript |
 
-## Tecnologias que uso
+## Tech I use
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,ts,js,react,nodejs,html,css,git,github,vscode&perline=10&theme=dark" alt="Python, TypeScript, JavaScript, React, Node.js, HTML, CSS, Git, GitHub e VS Code" />
+    <img src="https://skillicons.dev/icons?i=python,ts,js,react,nodejs,html,css,git,github,vscode&perline=10&theme=dark" alt="Python, TypeScript, JavaScript, React, Node.js, HTML, CSS, Git, GitHub and VS Code" />
   </a>
 </p>
 
-## Agora
+## Right now
 
-Estou expandindo minha base em ciência da computação enquanto construo projetos que conectam IA, produto e problemas reais. Meu objetivo é transformar curiosidade em coisas que funcionam — e compartilhar o que aprendo no processo.
+I'm building a solid foundation in computer science while working on projects that connect AI, product and real problems. My goal is to turn curiosity into things that work, and to share what I learn along the way.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:7751FF&height=100&section=footer" alt="Rodapé" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:7751FF&height=100&section=footer" alt="Footer" />
 </p>
